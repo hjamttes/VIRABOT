@@ -5,7 +5,7 @@ var itemCounter = 0;
 var fps = 15;
 
 var money = 0.00;
-var currentCase = "case2";
+var currentCase = "case1";
 var acceptMoneyPerClick = 666.00;
 
 
@@ -175,7 +175,7 @@ var cases = {
       weap3: {
         name: "JOEMAMA",
         price: 1e+308,
-        "https://i.ytimg.com/vi/RNeOBHqJPgE/maxresdefault.jpg"
+        "https://i.scdn.co/image/ab67616d0000b273ea95eb660d024a2460e35d3d"
     }
     },
     restricted: {
